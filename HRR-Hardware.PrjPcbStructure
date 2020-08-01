@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=PCB.SchDoc
-Record=SheetSymbol|SourceDocument=PCB.SchDoc|Designator=U_Regulador|SchDesignator=U_Regulador|FileName=Regulador.SchDoc|SymbolType=Normal|RawFileName=Regulador.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PCB.SchDoc|Designator=U_5v|SchDesignator=U_5v|FileName=Regulador.SchDoc|SymbolType=Normal|RawFileName=Regulador.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PCB.SchDoc|Designator=U_Reg3v3|SchDesignator=U_Reg3v3|FileName=Regulador 3v3.SchDoc|SymbolType=Normal|RawFileName=Regulador 3v3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
