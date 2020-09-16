@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=U_5v Member=Cin3
+Removed Member From Class: ClassName=U_5v Member=Cout5
+Removed Member From Class: ClassName=U_5v Member=Cout6
+Removed Member From Class: ClassName=U_5v Member=L2
+Removed Member From Class: ClassName=U_5v Member=U2
+Added Member To Class: ClassName=U_5v Member=Component Cin1 C3216X5R1E476M160AC
+Added Member To Class: ClassName=U_Reg3v3 Member=Component Cin2 GRM21BR61E106MA73L
+Added Member To Class: ClassName=U_5v Member=Component Cout1 GRM21BR61A226ME44L
+Added Member To Class: ClassName=U_5v Member=Component Cout2 GRM21BR61A226ME44L
+Added Member To Class: ClassName=U_5v Member=Component L1 XAL5030-222MEB
+Added Member To Class: ClassName=U_5v Member=Component U1 TPS566231RQFR

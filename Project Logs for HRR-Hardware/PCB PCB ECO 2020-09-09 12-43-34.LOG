@@ -1,0 +1,397 @@
+Removed Member From Class: ClassName=U_Reg3v3 Member=Cinx
+Removed Member From Class: ClassName=U_Reg3v3 Member=Cout1
+Removed Member From Class: ClassName=U_Reg3v3 Member=Cout2
+Removed Member From Class: ClassName=U_Reg3v3 Member=Rfbb
+Removed Member From Class: ClassName=U_5v Member=Rfbt
+Removed Member From Class: ClassName=U_Reg3v3 Member=U1
+Change Component Designator: OldDesignator=Cboot NewDesignator=Cboot1
+Change Component Designator: OldDesignator=Cbst NewDesignator=Cbst1
+Change Component Designator: OldDesignator=Cff NewDesignator=Cff1
+Change Component Designator: OldDesignator=Cin1 NewDesignator=Cin2
+Change Component Designator: OldDesignator=Cin2 NewDesignator=Cin3
+Change Component Designator: OldDesignator=Cin NewDesignator=Cin1
+Change Component Designator: OldDesignator=Cinx NewDesignator=Cinx1
+Change Component Designator: OldDesignator=Cinx NewDesignator=Cinx2
+Change Component Designator: OldDesignator=Cout1 NewDesignator=Cout6
+Change Component Designator: OldDesignator=Cout2 NewDesignator=Cout5
+Change Component Designator: OldDesignator=Coutx NewDesignator=Coutx1
+Change Component Designator: OldDesignator=Css NewDesignator=Css1
+Change Component Designator: OldDesignator=Cvcc NewDesignator=Cvcc1
+Change Component Designator: OldDesignator=L1 NewDesignator=L2
+Change Component Designator: OldDesignator=Rbst NewDesignator=Rbst1
+Change Component Designator: OldDesignator=Rfbb NewDesignator=Rfbb1
+Change Component Designator: OldDesignator=Rfbb NewDesignator=Rfbb2
+Change Component Designator: OldDesignator=Rfbt NewDesignator=Rfbt1
+Change Component Designator: OldDesignator=Rfbt NewDesignator=Rfbt2
+Change Component Designator: OldDesignator=TB NewDesignator=TB1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Added Component: Designator=J1_MOUT1(Molex_22-03-5035_0)
+Add component (AddParameter): Name = "Category 75Fab8F04590Ae3D"; Value = "Connectors and Adapters"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 0836C53C3D42D3F1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category E7012A0Bd22E3Cc6"; Value = "Headers & Receptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/022035035_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "current_rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN 3 Positions Header Connector 0.098" (2.50mm) Through Hole Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "flammability_rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "glow_wire_compliant"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "halogen_free_status"; Value = "Not Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "insulation_resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lifecycle_status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "pcb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_circuits"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Part Number"; Value = "2021e92f3fb6ffe6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CONN_PTH_HDR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin_pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.362417304973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "shrouded"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_height"; Value = "5.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_length"; Value = "9.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_width"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_ac"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_dc"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J1_MOUT2(Molex_22-03-5035_0)
+Add component (AddParameter): Name = "Category 75Fab8F04590Ae3D"; Value = "Connectors and Adapters"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 0836C53C3D42D3F1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category E7012A0Bd22E3Cc6"; Value = "Headers & Receptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/022035035_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "current_rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN 3 Positions Header Connector 0.098" (2.50mm) Through Hole Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "flammability_rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "glow_wire_compliant"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "halogen_free_status"; Value = "Not Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "insulation_resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lifecycle_status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "pcb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_circuits"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Part Number"; Value = "2021e92f3fb6ffe6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CONN_PTH_HDR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin_pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.362417304973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "shrouded"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_height"; Value = "5.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_length"; Value = "9.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_width"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_ac"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_dc"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J1_MOUT3(Molex_22-03-5035_0)
+Add component (AddParameter): Name = "Category 75Fab8F04590Ae3D"; Value = "Connectors and Adapters"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 0836C53C3D42D3F1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category E7012A0Bd22E3Cc6"; Value = "Headers & Receptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/022035035_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "current_rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN 3 Positions Header Connector 0.098" (2.50mm) Through Hole Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "flammability_rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "glow_wire_compliant"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "halogen_free_status"; Value = "Not Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "insulation_resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lifecycle_status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "pcb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_circuits"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Part Number"; Value = "2021e92f3fb6ffe6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CONN_PTH_HDR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin_pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.362417304973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "shrouded"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_height"; Value = "5.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_length"; Value = "9.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_width"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_ac"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_dc"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J1_MOUT4(Molex_22-03-5035_0)
+Add component (AddParameter): Name = "Category 75Fab8F04590Ae3D"; Value = "Connectors and Adapters"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 0836C53C3D42D3F1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category E7012A0Bd22E3Cc6"; Value = "Headers & Receptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/022035035_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "current_rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN 3 Positions Header Connector 0.098" (2.50mm) Through Hole Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "flammability_rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "glow_wire_compliant"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "halogen_free_status"; Value = "Not Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "insulation_resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lifecycle_status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "pcb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_circuits"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Part Number"; Value = "2021e92f3fb6ffe6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CONN_PTH_HDR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin_pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.362417304973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "shrouded"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_height"; Value = "5.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_length"; Value = "9.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_width"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_ac"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_dc"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J1_MOUT5(Molex_22-03-5035_0)
+Add component (AddParameter): Name = "Category 75Fab8F04590Ae3D"; Value = "Connectors and Adapters"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 0836C53C3D42D3F1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category E7012A0Bd22E3Cc6"; Value = "Headers & Receptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/022035035_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "current_rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN 3 Positions Header Connector 0.098" (2.50mm) Through Hole Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "flammability_rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "glow_wire_compliant"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "halogen_free_status"; Value = "Not Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "insulation_resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lifecycle_status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "pcb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_circuits"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Part Number"; Value = "2021e92f3fb6ffe6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CONN_PTH_HDR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin_pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.362417304973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "shrouded"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_height"; Value = "5.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_length"; Value = "9.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_width"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_ac"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_dc"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J1_MOUT6(Molex_22-03-5035_0)
+Add component (AddParameter): Name = "Category 75Fab8F04590Ae3D"; Value = "Connectors and Adapters"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 0836C53C3D42D3F1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category E7012A0Bd22E3Cc6"; Value = "Headers & Receptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/022035035_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "current_rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN 3 Positions Header Connector 0.098" (2.50mm) Through Hole Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "flammability_rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "glow_wire_compliant"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "halogen_free_status"; Value = "Not Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/5f4eec58f2a5589a/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "insulation_resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lifecycle_status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "pcb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_circuits"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Part Number"; Value = "2021e92f3fb6ffe6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CONN_PTH_HDR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin_pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.362417304973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "shrouded"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_height"; Value = "5.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_length"; Value = "9.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "size_width"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM18887-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "538-22-03-5035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_ac"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage_rating_dc"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cin2-1
+Added Pin To Net: NetName=VBAT Pin=Cin2-2
+Added Pin To Net: NetName=GND Pin=Cin3-1
+Added Pin To Net: NetName=VBAT Pin=Cin3-2
+Added Pin To Net: NetName=VBAT Pin=Cinx2-1
+Added Pin To Net: NetName=GND Pin=Cinx2-2
+Added Pin To Net: NetName=GND Pin=Cout5-1
+Added Pin To Net: NetName=GND Pin=Cout6-1
+Added Pin To Net: NetName=GND Pin=J1_MOUT1-1
+Added Pin To Net: NetName=VBAT Pin=J1_MOUT1-2
+Added Pin To Net: NetName=GND Pin=J1_MOUT2-1
+Added Pin To Net: NetName=VBAT Pin=J1_MOUT2-2
+Added Pin To Net: NetName=GND Pin=J1_MOUT3-1
+Added Pin To Net: NetName=VBAT Pin=J1_MOUT3-2
+Added Pin To Net: NetName=GND Pin=J1_MOUT4-1
+Added Pin To Net: NetName=VBAT Pin=J1_MOUT4-2
+Added Pin To Net: NetName=GND Pin=J1_MOUT5-1
+Added Pin To Net: NetName=VBAT Pin=J1_MOUT5-2
+Added Pin To Net: NetName=GND Pin=J1_MOUT6-1
+Added Pin To Net: NetName=VBAT Pin=J1_MOUT6-2
+Added Pin To Net: NetName=GND Pin=Rfbb2-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=VBAT Pin=U2-3
+Change Net Name : Old Net Name=NetCboot_1 New Net Name=NetCboot1_1
+Change Net Name : Old Net Name=NetCboot_2 New Net Name=NetCboot1_2
+Change Net Name : Old Net Name=NetCbst_1 New Net Name=NetCbst1_1
+Change Net Name : Old Net Name=NetCbst_2 New Net Name=NetCbst1_2
+Change Net Name : Old Net Name=NetCff_2 New Net Name=NetCff1_2
+Change Net Name : Old Net Name=NetCss_1 New Net Name=NetCss1_1
+Change Net Name : Old Net Name=NetCvcc_1 New Net Name=NetCvcc1_1
+Change Net Name : Old Net Name=NetRbst_1 New Net Name=NetRbst1_1
+Change Net Name : Old Net Name=NetRfbb_1 New Net Name=NetRfbb2_1
+Added Pin To Net: NetName=DATA1 Pin=J1_MOUT1-3
+Added Pin To Net: NetName=DATA1 Pin=TB1-P2_23
+Added Net: Name=DATA1
+Added Pin To Net: NetName=DATA2 Pin=J1_MOUT2-3
+Added Pin To Net: NetName=DATA2 Pin=TB1-P2_29
+Added Net: Name=DATA2
+Added Pin To Net: NetName=DATA3 Pin=J1_MOUT3-3
+Added Pin To Net: NetName=DATA3 Pin=TB1-P1_40
+Added Net: Name=DATA3
+Added Pin To Net: NetName=DATA4 Pin=J1_MOUT4-3
+Added Pin To Net: NetName=DATA4 Pin=TB1-P2_37
+Added Net: Name=DATA4
+Added Pin To Net: NetName=DATA5 Pin=J1_MOUT5-3
+Added Pin To Net: NetName=DATA5 Pin=TB1-P2_35
+Added Net: Name=DATA5
+Added Pin To Net: NetName=DATA6 Pin=J1_MOUT6-3
+Added Pin To Net: NetName=DATA6 Pin=TB1-P2_47
+Added Net: Name=DATA6
+Added Class: Name=MOUT1
+Added Class: Name=MOUT2
+Added Class: Name=MOUT3
+Added Class: Name=MOUT4
+Added Class: Name=MOUT5
+Added Class: Name=MOUT6
+Added Member To Class: ClassName=U_Reg3v3 Member=Component Cinx2 C0805C104M5RACTU
+Added Member To Class: ClassName=U_Reg3v3 Member=Component Cout5 C2012X7S1A226M125AC
+Added Member To Class: ClassName=U_Reg3v3 Member=Component Cout6 C2012X7S1A226M125AC
+Added Member To Class: ClassName=U_Reg3v3 Member=Component Rfbb2 CRCW060310K0FKEA
+Added Member To Class: ClassName=U_5v Member=Component Rfbt1 RC0603FR-07220KL
+Added Member To Class: ClassName=PCB Member=Component TB1 STM32F4DISCOVERY
+Added Member To Class: ClassName=U_Reg3v3 Member=Component U2 TPS56339DDCR
+Added Room: Name=MOUT1
+Added Room: Name=MOUT2
+Added Room: Name=MOUT3
+Added Room: Name=MOUT4
+Added Room: Name=MOUT5
+Added Room: Name=MOUT6
+Added Room: Name=PCB

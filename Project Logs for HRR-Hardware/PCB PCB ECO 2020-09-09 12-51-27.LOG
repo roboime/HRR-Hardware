@@ -1,0 +1,47 @@
+Removed Member From Class: ClassName=U_5v Member=Cin3
+Removed Member From Class: ClassName=U_5v Member=Cout5
+Removed Member From Class: ClassName=U_5v Member=Cout6
+Removed Member From Class: ClassName=U_5v Member=L2
+Removed Member From Class: ClassName=U_5v Member=U2
+Added Component: Designator=R1_MOUT1(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R1_MOUT2(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R1_MOUT3(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R1_MOUT4(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R1_MOUT5(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R1_MOUT6(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DATA1 Pin=R1_MOUT1-1
+Added Pin To Net: NetName=3V3 Pin=R1_MOUT1-2
+Added Pin To Net: NetName=DATA2 Pin=R1_MOUT2-1
+Added Pin To Net: NetName=3V3 Pin=R1_MOUT2-2
+Added Pin To Net: NetName=DATA3 Pin=R1_MOUT3-1
+Added Pin To Net: NetName=3V3 Pin=R1_MOUT3-2
+Added Pin To Net: NetName=DATA4 Pin=R1_MOUT4-1
+Added Pin To Net: NetName=3V3 Pin=R1_MOUT4-2
+Added Pin To Net: NetName=DATA5 Pin=R1_MOUT5-1
+Added Pin To Net: NetName=3V3 Pin=R1_MOUT5-2
+Added Pin To Net: NetName=DATA6 Pin=R1_MOUT6-1
+Added Pin To Net: NetName=3V3 Pin=R1_MOUT6-2
+Added Member To Class: ClassName=U_5v Member=Component Cin1 C3216X5R1E476M160AC
+Added Member To Class: ClassName=U_Reg3v3 Member=Component Cin2 GRM21BR61E106MA73L
+Added Member To Class: ClassName=U_5v Member=Component Cout1 GRM21BR61A226ME44L
+Added Member To Class: ClassName=U_5v Member=Component Cout2 GRM21BR61A226ME44L
+Added Member To Class: ClassName=U_5v Member=Component L1 XAL5030-222MEB
+Added Member To Class: ClassName=MOUT1 Member=Component R1_MOUT1 (R1) CRCW040210K0FKED
+Added Member To Class: ClassName=MOUT2 Member=Component R1_MOUT2 (R1) CRCW040210K0FKED
+Added Member To Class: ClassName=MOUT3 Member=Component R1_MOUT3 (R1) CRCW040210K0FKED
+Added Member To Class: ClassName=MOUT4 Member=Component R1_MOUT4 (R1) CRCW040210K0FKED
+Added Member To Class: ClassName=MOUT5 Member=Component R1_MOUT5 (R1) CRCW040210K0FKED
+Added Member To Class: ClassName=MOUT6 Member=Component R1_MOUT6 (R1) CRCW040210K0FKED
+Added Member To Class: ClassName=U_5v Member=Component U1 TPS566231RQFR

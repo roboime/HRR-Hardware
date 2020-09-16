@@ -1,0 +1,14 @@
+Added Component: Designator=R2(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW04022K20FKED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=TB1-P1_19
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=PCB Member=Component R2 CRCW040210K0FKED
+Added Member To Class: ClassName=PCB Member=Component R3 CRCW04022K20FKED
