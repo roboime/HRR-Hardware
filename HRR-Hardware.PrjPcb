@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FHCNYOXU
 
 [Document9]
 DocumentPath=ConnMotor.SchDoc
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OOUUDXHF
 
 [Document13]
 DocumentPath=Componentes\TPS566231RQF.SchLib
@@ -273,7 +273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MPRJBCLL
 
 [Document15]
 DocumentPath=Componentes\GRM21BR61A226ME44L.SchLib
@@ -307,7 +307,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TTJRGVGK
 
 [Document17]
 DocumentPath=Componentes\C1005X6S1C105K050BC.SchLib
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XYUUBJOI
 
 [Document19]
 DocumentPath=Componentes\GRM155R71C104KA88D.SchLib
@@ -375,7 +375,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ENUQFOGY
 
 [Document21]
 DocumentPath=Componentes\GRM21BR61E106MA73L.SchLib
@@ -409,7 +409,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JEFPOUFW
 
 [Document23]
 DocumentPath=Componentes\RC0603FR-0730RL.SchLib
@@ -443,7 +443,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JEFPOUFW
 
 [Document25]
 DocumentPath=Componentes\C2012X7S1A226M125AC.SchLib
@@ -477,7 +477,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JEFPOUFW
 
 [Document27]
 DocumentPath=Componentes\SRN6045-4R7Y-pcb-part-libraries.SchLib
@@ -528,7 +528,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OPRWCGON
 
 [Document30]
 DocumentPath=Componentes\RaspberryPi.PcbLib
@@ -596,7 +596,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IPAAMCHG
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for HRR-Hardware\Design Rule Check - PCB.html
