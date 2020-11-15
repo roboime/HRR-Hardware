@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\André Luiz Fernandes\Documents\GitHub\HRR-Hardware\PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_U1|Scope=Board|Minimum=6.30
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
