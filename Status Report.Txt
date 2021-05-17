@@ -1,0 +1,40 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Copy of PCB.GTO]
+   Generated File[Copy of PCB.GTP]
+   Generated File[Copy of PCB.GTS]
+   Generated File[Copy of PCB.GTL]
+   Generated File[Copy of PCB.GBL]
+   Generated File[Copy of PCB.GBS]
+   Generated File[Copy of PCB.GBP]
+   Generated File[Copy of PCB.GBO]
+   Generated File[Copy of PCB.GM1]
+   Generated File[Copy of PCB.GM2]
+   Generated File[Copy of PCB.GM3]
+   Generated File[Copy of PCB.GM4]
+   Generated File[Copy of PCB.GM5]
+   Generated File[Copy of PCB.GM7]
+   Generated File[Copy of PCB.GM8]
+   Generated File[Copy of PCB.GM10]
+   Generated File[Copy of PCB.GM12]
+   Generated File[Copy of PCB.GM13]
+   Generated File[Copy of PCB.GM14]
+   Generated File[Copy of PCB.GM15]
+   Generated File[Copy of PCB.GM16]
+   Generated File[Copy of PCB.GM20]
+   Generated File[Copy of PCB.GM21]
+   Generated File[Copy of PCB.GM23]
+   Generated File[Copy of PCB.GM24]
+   Generated File[Copy of PCB.GKO]
+   Generated File[Copy of PCB.GPT]
+   Generated File[Copy of PCB.GPB]
+   Generated File[Copy of PCB.RUL]
+   Generated File[Copy of PCB.EXTREP]
+   Generated File[Copy of PCB.REP]
+
+
+Files Generated   : 31
+Documents Printed : 0
+
+Finished Output Generation At 19:07:06 On 17/05/2021
