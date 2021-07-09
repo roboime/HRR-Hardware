@@ -1,9 +1,12 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Gabriel\Documents\HRR-Hardware\PCB.PcbDoc
-Date     : 2021-06-24
-Time     : 16:36:21
+PCB File : C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\HRR\HRR-Hardware\PCB.PcbDoc
+Date     : 2021-07-09
+Time     : 00:21:08
 
 Processing Rule : Clearance Constraint (Gap=0.16mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.16mm) (IsPad),(IsVia)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -33,58 +36,14 @@ Rule Violations :0
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.12mm) (All),(All)
 Rule Violations :0
 
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (HasFootprint('SIS862DNT1GE3')),(HasFootprint('SIS862DNT1GE3'))
+Rule Violations :0
+
 Processing Rule : Silk To Solder Mask (Clearance=0.25mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (0.148mm < 0.25mm) Between Arc (47.45mm,41.015mm) on Top Overlay And Pad L2-1(48.85mm,37.965mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.148mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.136mm < 0.25mm) Between Arc (53.4mm,92.575mm) on Top Overlay And Pad R10_U_5v1-1(54.025mm,92.325mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.136mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.22mm < 0.25mm) Between Pad C1_U_5v2-2(62mm,65.375mm) on Top Layer And Text "C1_U_5v2" (60.551mm,64.15mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.22mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.167mm < 0.25mm) Between Pad C3_U_5v2-1(60.6mm,59.525mm) on Top Layer And Track (49.35mm,59.905mm)(59.65mm,59.905mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.167mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.201mm < 0.25mm) Between Pad C3_U_5v2-2(60.6mm,57.675mm) on Top Layer And Text "C3_U_5v2" (60.85mm,52.301mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.201mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.151mm < 0.25mm) Between Pad D1_U_5v1-3(51.5mm,90.575mm) on Top Layer And Text "R9_U_5v1" (47.934mm,90.033mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.151mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.242mm < 0.25mm) Between Pad D1_U_5v2-3(55.7mm,68.425mm) on Top Layer And Text "R8_U_5v2" (53.867mm,67.233mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.242mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.195mm < 0.25mm) Between Pad L2-1(48.85mm,37.965mm) on Top Layer And Track (50.15mm,34.965mm)(51.85mm,34.965mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.195mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.195mm < 0.25mm) Between Pad L2-1(48.85mm,37.965mm) on Top Layer And Track (50.15mm,40.965mm)(51.85mm,40.965mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.195mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.195mm < 0.25mm) Between Pad L2-2(53.15mm,37.965mm) on Top Layer And Track (50.15mm,34.965mm)(51.85mm,34.965mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.195mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.195mm < 0.25mm) Between Pad L2-2(53.15mm,37.965mm) on Top Layer And Track (50.15mm,40.965mm)(51.85mm,40.965mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.195mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.075mm < 0.25mm) Between Pad R1_MOUT3-1(15mm,57.1mm) on Top Layer And Text "R1_MOUT3" (14.45mm,55.351mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.075mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.175mm < 0.25mm) Between Pad R1_MOUT3-2(15mm,58mm) on Top Layer And Text "R1_MOUT3" (14.45mm,55.351mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.175mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.174mm < 0.25mm) Between Pad R6_U_5v1-1(48.75mm,88.373mm) on Top Layer And Text "R8_U_5v1" (49.134mm,87.433mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.174mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.164mm < 0.25mm) Between Pad R6_U_5v1-1(48.75mm,88.373mm) on Top Layer And Track (49.3mm,88.3mm)(49.3mm,89.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.164mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.164mm < 0.25mm) Between Pad R6_U_5v1-2(48.75mm,89.277mm) on Top Layer And Track (49.3mm,88.3mm)(49.3mm,89.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.164mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.217mm < 0.25mm) Between Pad R9_U_5v1-1(50mm,89.35mm) on Top Layer And Text "R9_U_5v1" (47.934mm,90.033mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.217mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.178mm < 0.25mm) Between Pad R9_U_5v1-1(50mm,89.35mm) on Top Layer And Track (49.436mm,88.089mm)(49.436mm,89.561mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.178mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.067mm < 0.25mm) Between Pad R9_U_5v1-2(50mm,88.3mm) on Top Layer And Text "R8_U_5v1" (49.134mm,87.433mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.067mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.164mm < 0.25mm) Between Pad R9_U_5v1-2(50mm,88.3mm) on Top Layer And Track (49.436mm,88.089mm)(49.436mm,89.561mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.164mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.194mm < 0.25mm) Between Pad R9_U_5v2-1(54.2mm,66.625mm) on Top Layer And Text "R8_U_5v2" (53.867mm,67.233mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.194mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.142mm < 0.25mm) Between Pad R9_U_5v2-2(54.2mm,65.575mm) on Top Layer And Text "R9_U_5v2" (52.867mm,64.633mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.142mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.25mm) Between Pad Rbst1-1(44mm,39.85mm) on Top Layer And Track (44.575mm,40.44mm)(45.425mm,40.44mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.153mm < 0.25mm) Between Pad U2-3(46.35mm,42.915mm) on Top Layer And Text "Cinx2" (47.7mm,42.45mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.153mm]
-Rule Violations :24
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (0.125mm < 0.2mm) Between Text "C3_U_5v1" (56.25mm,77.601mm) on Top Overlay And Track (56.675mm,79.925mm)(56.675mm,80.075mm) on Top Overlay Silk Text to Silk Clearance [0.125mm]
-   Violation between Silk To Silk Clearance Constraint: (0.19mm < 0.2mm) Between Text "Cbst1" (44.75mm,36.3mm) on Top Overlay And Track (44.9mm,37.29mm)(47.1mm,37.29mm) on Top Overlay Silk Text to Silk Clearance [0.19mm]
-   Violation between Silk To Silk Clearance Constraint: (0.025mm < 0.2mm) Between Text "Cinx2" (47.7mm,42.45mm) on Top Overlay And Track (47.925mm,42.865mm)(47.925mm,45.065mm) on Top Overlay Silk Text to Silk Clearance [0.025mm]
-   Violation between Silk To Silk Clearance Constraint: (0.133mm < 0.2mm) Between Text "J1_MOUT11" (14.733mm,30.001mm) on Top Overlay And Track (15.2mm,27.55mm)(15.2mm,37.45mm) on Top Overlay Silk Text to Silk Clearance [0.133mm]
-   Violation between Silk To Silk Clearance Constraint: (0.133mm < 0.2mm) Between Text "J1_MOUT2" (7.733mm,72.401mm) on Top Overlay And Track (8.2mm,70.55mm)(8.2mm,80.45mm) on Top Overlay Silk Text to Silk Clearance [0.133mm]
-   Violation between Silk To Silk Clearance Constraint: (0.133mm < 0.2mm) Between Text "J1_MOUT7" (14.733mm,93.201mm) on Top Overlay And Track (15.2mm,91.55mm)(15.2mm,101.45mm) on Top Overlay Silk Text to Silk Clearance [0.133mm]
-   Violation between Silk To Silk Clearance Constraint: (0.133mm < 0.2mm) Between Text "J1_MOUT9" (14.733mm,62.001mm) on Top Overlay And Track (15.2mm,59.55mm)(15.2mm,69.45mm) on Top Overlay Silk Text to Silk Clearance [0.133mm]
-   Violation between Silk To Silk Clearance Constraint: (0.197mm < 0.2mm) Between Text "P1" (89.667mm,18.2mm) on Top Overlay And Track (89.27mm,17.73mm)(89.27mm,48.21mm) on Top Overlay Silk Text to Silk Clearance [0.197mm]
-   Violation between Silk To Silk Clearance Constraint: (0.13mm < 0.2mm) Between Text "P5" (31.4mm,57.334mm) on Top Overlay And Track (31.73mm,56.73mm)(31.73mm,77.05mm) on Top Overlay Silk Text to Silk Clearance [0.13mm]
-   Violation between Silk To Silk Clearance Constraint: (0.064mm < 0.2mm) Between Text "P6" (88.534mm,87.8mm) on Top Overlay And Track (88.27mm,87.19mm)(88.27mm,92.27mm) on Top Overlay Silk Text to Silk Clearance [0.064mm]
-   Violation between Silk To Silk Clearance Constraint: (0.13mm < 0.2mm) Between Text "P7" (35.4mm,57.134mm) on Top Overlay And Track (34.27mm,56.73mm)(34.27mm,77.05mm) on Top Overlay Silk Text to Silk Clearance [0.13mm]
-   Violation between Silk To Silk Clearance Constraint: (0.13mm < 0.2mm) Between Text "P7" (35.4mm,57.134mm) on Top Overlay And Track (35.73mm,56.73mm)(35.73mm,71.97mm) on Top Overlay Silk Text to Silk Clearance [0.13mm]
-   Violation between Silk To Silk Clearance Constraint: (0.169mm < 0.2mm) Between Text "R1_MOUT10" (21.75mm,49.099mm) on Top Overlay And Track (22.746mm,41.708mm)(22.746mm,94.032mm) on Top Overlay Silk Text to Silk Clearance [0.169mm]
-   Violation between Silk To Silk Clearance Constraint: (0.169mm < 0.2mm) Between Text "R1_MOUT7" (21.75mm,96.849mm) on Top Overlay And Track (22.746mm,41.708mm)(22.746mm,94.032mm) on Top Overlay Silk Text to Silk Clearance [0.169mm]
-   Violation between Silk To Silk Clearance Constraint: (0.177mm < 0.2mm) Between Text "R1_MOUT7" (21.75mm,96.849mm) on Top Overlay And Track (22.746mm,94.032mm)(28.714mm,94.032mm) on Top Overlay Silk Text to Silk Clearance [0.177mm]
-   Violation between Silk To Silk Clearance Constraint: (0.169mm < 0.2mm) Between Text "R1_MOUT8" (21.75mm,80.849mm) on Top Overlay And Track (22.746mm,41.708mm)(22.746mm,94.032mm) on Top Overlay Silk Text to Silk Clearance [0.169mm]
-   Violation between Silk To Silk Clearance Constraint: (0.169mm < 0.2mm) Between Text "R1_MOUT9" (21.75mm,64.649mm) on Top Overlay And Track (22.746mm,41.708mm)(22.746mm,94.032mm) on Top Overlay Silk Text to Silk Clearance [0.169mm]
-   Violation between Silk To Silk Clearance Constraint: (0.164mm < 0.2mm) Between Text "R5_U_5v1" (54.801mm,90.35mm) on Top Overlay And Track (54.436mm,89.589mm)(54.436mm,91.061mm) on Top Overlay Silk Text to Silk Clearance [0.164mm]
-   Violation between Silk To Silk Clearance Constraint: (0.167mm < 0.2mm) Between Text "R6_U_5v1" (47.567mm,87.534mm) on Top Overlay And Text "R9_U_5v1" (47.934mm,90.033mm) on Top Overlay Silk Text to Silk Clearance [0.167mm]
-   Violation between Silk To Silk Clearance Constraint: (0.081mm < 0.2mm) Between Text "R6_U_5v2" (51.367mm,64.467mm) on Top Overlay And Track (51.714mm,65.341mm)(51.714mm,66.813mm) on Top Overlay Silk Text to Silk Clearance [0.081mm]
-   Violation between Silk To Silk Clearance Constraint: (0.075mm < 0.2mm) Between Text "R8_U_5v1" (49.134mm,87.433mm) on Top Overlay And Track (49.436mm,88.089mm)(49.436mm,89.561mm) on Top Overlay Silk Text to Silk Clearance [0.075mm]
-   Violation between Silk To Silk Clearance Constraint: (0.108mm < 0.2mm) Between Text "R9_U_5v2" (52.867mm,64.633mm) on Top Overlay And Track (53.086mm,65.341mm)(53.086mm,66.813mm) on Top Overlay Silk Text to Silk Clearance [0.108mm]
-   Violation between Silk To Silk Clearance Constraint: (0.174mm < 0.2mm) Between Text "R9_U_5v2" (52.867mm,64.633mm) on Top Overlay And Track (55.625mm,65.391mm)(55.625mm,66.663mm) on Top Overlay Silk Text to Silk Clearance [0.174mm]
-Rule Violations :23
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -92,31 +51,7 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room MOUT11 (Bounding Region = (93.292mm, 120.273mm, 102.273mm, 132.273mm) (InComponentClass('MOUT11'))
-Rule Violations :0
-
-Processing Rule : Room MOUT7 (Bounding Region = (93.273mm, 184.273mm, 102.273mm, 196.273mm) (InComponentClass('MOUT7'))
-Rule Violations :0
-
 Processing Rule : Room MOUT9 (Bounding Region = (93.273mm, 152.273mm, 102.273mm, 164.273mm) (InComponentClass('MOUT9'))
-Rule Violations :0
-
-Processing Rule : Room U_5v1 (Bounding Region = (115.273mm, 165.273mm, 150.273mm, 187.273mm) (InComponentClass('U_5v1'))
-Rule Violations :0
-
-Processing Rule : Room 9GOUT5 (Bounding Region = (115.273mm, 95.273mm, 119.273mm, 104.273mm) (InComponentClass('9GOUT5'))
-Rule Violations :0
-
-Processing Rule : Room MOUT2 (Bounding Region = (87.273mm, 163.273mm, 96.273mm, 175.273mm) (InComponentClass('MOUT2'))
-Rule Violations :0
-
-Processing Rule : Room MOUT3 (Bounding Region = (87.273mm, 147.273mm, 96.273mm, 159.273mm) (InComponentClass('MOUT3'))
-Rule Violations :0
-
-Processing Rule : Room MOUT8 (Bounding Region = (93.273mm, 168.273mm, 102.273mm, 180.273mm) (InComponentClass('MOUT8'))
-Rule Violations :0
-
-Processing Rule : Room U_5v2 (Bounding Region = (119.273mm, 142.273mm, 152.273mm, 165.273mm) (InComponentClass('U_5v2'))
 Rule Violations :0
 
 Processing Rule : Room MOUT10 (Bounding Region = (93.273mm, 136.273mm, 102.273mm, 148.273mm) (InComponentClass('MOUT10'))
@@ -125,40 +60,64 @@ Rule Violations :0
 Processing Rule : Room MOUT4 (Bounding Region = (87.273mm, 131.273mm, 96.273mm, 143.273mm) (InComponentClass('MOUT4'))
 Rule Violations :0
 
+Processing Rule : Room MOUT2 (Bounding Region = (87.273mm, 163.273mm, 96.273mm, 175.273mm) (InComponentClass('MOUT2'))
+Rule Violations :0
+
+Processing Rule : Room MOUT11 (Bounding Region = (93.292mm, 120.273mm, 102.273mm, 132.273mm) (InComponentClass('MOUT11'))
+Rule Violations :0
+
+Processing Rule : Room MOUT7 (Bounding Region = (93.273mm, 184.273mm, 102.273mm, 196.273mm) (InComponentClass('MOUT7'))
+Rule Violations :0
+
+Processing Rule : Room U_5v2 (Bounding Region = (119.273mm, 142.273mm, 152.273mm, 165.273mm) (InComponentClass('U_5v2'))
+Rule Violations :0
+
+Processing Rule : Room U_Reg3v3 (Bounding Region = (119.273mm, 127.273mm, 144.273mm, 142.273mm) (InComponentClass('U_Reg3v3'))
+Rule Violations :0
+
+Processing Rule : Room 9GOUT4 (Bounding Region = (125.273mm, 95.273mm, 129.273mm, 104.273mm) (InComponentClass('9GOUT4'))
+Rule Violations :0
+
 Processing Rule : Room MOUT1 (Bounding Region = (87.273mm, 179.273mm, 96.273mm, 191.373mm) (InComponentClass('MOUT1'))
+Rule Violations :0
+
+Processing Rule : Room MOUT3 (Bounding Region = (87.273mm, 147.273mm, 96.273mm, 159.273mm) (InComponentClass('MOUT3'))
+Rule Violations :0
+
+Processing Rule : Room MOUT8 (Bounding Region = (93.273mm, 168.273mm, 102.273mm, 180.273mm) (InComponentClass('MOUT8'))
 Rule Violations :0
 
 Processing Rule : Room 9GOUT1 (Bounding Region = (163.273mm, 158.273mm, 167.273mm, 167.273mm) (InComponentClass('9GOUT1'))
 Rule Violations :0
 
-Processing Rule : Room 9GOUT4 (Bounding Region = (126.273mm, 95.273mm, 130.273mm, 104.273mm) (InComponentClass('9GOUT4'))
+Processing Rule : Room MOUT12 (Bounding Region = (93.273mm, 104.273mm, 102.273mm, 116.273mm) (InComponentClass('MOUT12'))
 Rule Violations :0
 
-Processing Rule : Room 9GOUT3 (Bounding Region = (130.273mm, 95.273mm, 134.273mm, 104.273mm) (InComponentClass('9GOUT3'))
+Processing Rule : Room 9GOUT3 (Bounding Region = (131.273mm, 95.273mm, 135.273mm, 104.273mm) (InComponentClass('9GOUT3'))
 Rule Violations :0
 
 Processing Rule : Room 9GOUT2 (Bounding Region = (167.273mm, 158.273mm, 171.273mm, 167.273mm) (InComponentClass('9GOUT2'))
 Rule Violations :0
 
-Processing Rule : Room MOUT12 (Bounding Region = (93.273mm, 104.273mm, 102.273mm, 116.273mm) (InComponentClass('MOUT12'))
-Rule Violations :0
-
 Processing Rule : Room MOUT5 (Bounding Region = (87.273mm, 115.273mm, 96.273mm, 127.273mm) (InComponentClass('MOUT5'))
-Rule Violations :0
-
-Processing Rule : Room MOUT6 (Bounding Region = (87.273mm, 99.273mm, 96.273mm, 111.273mm) (InComponentClass('MOUT6'))
 Rule Violations :0
 
 Processing Rule : Room 9GOUT6 (Bounding Region = (111.273mm, 95.273mm, 115.273mm, 104.273mm) (InComponentClass('9GOUT6'))
 Rule Violations :0
 
-Processing Rule : Room U_Reg3v3 (Bounding Region = (119.273mm, 127.273mm, 144.273mm, 142.273mm) (InComponentClass('U_Reg3v3'))
+Processing Rule : Room U_5v1 (Bounding Region = (115.273mm, 165.273mm, 150.273mm, 187.273mm) (InComponentClass('U_5v1'))
+Rule Violations :0
+
+Processing Rule : Room 9GOUT5 (Bounding Region = (115.273mm, 95.273mm, 119.273mm, 104.273mm) (InComponentClass('9GOUT5'))
+Rule Violations :0
+
+Processing Rule : Room MOUT6 (Bounding Region = (87.273mm, 99.273mm, 96.273mm, 111.273mm) (InComponentClass('MOUT6'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 47
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02
