@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\HRR\HRR-Hardware\PCB.PcbDoc
 Date     : 2021-08-14
-Time     : 17:25:09
+Time     : 18:09:30
 
 Processing Rule : Clearance Constraint (Gap=0.16mm) (All),(All)
 Rule Violations :0
@@ -33,10 +33,10 @@ Rule Violations :0
 Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.12mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (HasFootprint('SIS862DNT1GE3')),(HasFootprint('SIS862DNT1GE3'))
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (HasFootprint('SIS862DNT1GE3')),(HasFootprint('SIS862DNT1GE3'))
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.12mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.25mm) (IsPad),(All)
@@ -51,58 +51,25 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room MOUT9 (Bounding Region = (93.273mm, 152.273mm, 102.273mm, 164.273mm) (InComponentClass('MOUT9'))
-Rule Violations :0
-
-Processing Rule : Room MOUT10 (Bounding Region = (93.273mm, 136.273mm, 102.273mm, 148.273mm) (InComponentClass('MOUT10'))
-Rule Violations :0
-
-Processing Rule : Room MOUT4 (Bounding Region = (87.273mm, 131.273mm, 96.273mm, 143.273mm) (InComponentClass('MOUT4'))
-Rule Violations :0
-
-Processing Rule : Room MOUT2 (Bounding Region = (87.273mm, 163.273mm, 96.273mm, 175.273mm) (InComponentClass('MOUT2'))
-Rule Violations :0
-
-Processing Rule : Room MOUT11 (Bounding Region = (93.292mm, 120.273mm, 102.273mm, 132.273mm) (InComponentClass('MOUT11'))
-Rule Violations :0
-
-Processing Rule : Room MOUT7 (Bounding Region = (93.273mm, 184.273mm, 102.273mm, 196.273mm) (InComponentClass('MOUT7'))
-Rule Violations :0
-
 Processing Rule : Room U_5v2 (Bounding Region = (119.273mm, 142.273mm, 152.273mm, 165.273mm) (InComponentClass('U_5v2'))
-Rule Violations :0
-
-Processing Rule : Room U_Reg3v3 (Bounding Region = (119.273mm, 127.273mm, 144.273mm, 142.273mm) (InComponentClass('U_Reg3v3'))
 Rule Violations :0
 
 Processing Rule : Room 9GOUT4 (Bounding Region = (125.273mm, 95.273mm, 129.273mm, 104.273mm) (InComponentClass('9GOUT4'))
 Rule Violations :0
 
-Processing Rule : Room MOUT1 (Bounding Region = (87.273mm, 179.273mm, 96.273mm, 191.373mm) (InComponentClass('MOUT1'))
-Rule Violations :0
-
-Processing Rule : Room MOUT3 (Bounding Region = (87.273mm, 147.273mm, 96.273mm, 159.273mm) (InComponentClass('MOUT3'))
-Rule Violations :0
-
-Processing Rule : Room MOUT8 (Bounding Region = (93.273mm, 168.273mm, 102.273mm, 180.273mm) (InComponentClass('MOUT8'))
-Rule Violations :0
-
-Processing Rule : Room 9GOUT1 (Bounding Region = (163.273mm, 158.273mm, 167.273mm, 167.273mm) (InComponentClass('9GOUT1'))
-Rule Violations :0
-
-Processing Rule : Room MOUT12 (Bounding Region = (93.273mm, 104.273mm, 102.273mm, 116.273mm) (InComponentClass('MOUT12'))
+Processing Rule : Room U_Reg3v3 (Bounding Region = (119.273mm, 127.273mm, 144.273mm, 142.273mm) (InComponentClass('U_Reg3v3'))
 Rule Violations :0
 
 Processing Rule : Room 9GOUT3 (Bounding Region = (131.273mm, 95.273mm, 135.273mm, 104.273mm) (InComponentClass('9GOUT3'))
 Rule Violations :0
 
-Processing Rule : Room 9GOUT2 (Bounding Region = (167.273mm, 158.273mm, 171.273mm, 167.273mm) (InComponentClass('9GOUT2'))
-Rule Violations :0
-
-Processing Rule : Room MOUT5 (Bounding Region = (87.273mm, 115.273mm, 96.273mm, 127.273mm) (InComponentClass('MOUT5'))
-Rule Violations :0
-
 Processing Rule : Room 9GOUT6 (Bounding Region = (111.273mm, 95.273mm, 115.273mm, 104.273mm) (InComponentClass('9GOUT6'))
+Rule Violations :0
+
+Processing Rule : Room 9GOUT1 (Bounding Region = (163.273mm, 158.273mm, 167.273mm, 167.273mm) (InComponentClass('9GOUT1'))
+Rule Violations :0
+
+Processing Rule : Room 9GOUT2 (Bounding Region = (167.273mm, 158.273mm, 171.273mm, 167.273mm) (InComponentClass('9GOUT2'))
 Rule Violations :0
 
 Processing Rule : Room U_5v1 (Bounding Region = (115.273mm, 165.273mm, 150.273mm, 187.273mm) (InComponentClass('U_5v1'))
@@ -111,13 +78,10 @@ Rule Violations :0
 Processing Rule : Room 9GOUT5 (Bounding Region = (115.273mm, 95.273mm, 119.273mm, 104.273mm) (InComponentClass('9GOUT5'))
 Rule Violations :0
 
-Processing Rule : Room MOUT6 (Bounding Region = (87.273mm, 99.273mm, 96.273mm, 111.273mm) (InComponentClass('MOUT6'))
-Rule Violations :0
-
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02
