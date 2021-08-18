@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\HRR\HRR-Hardware\PCB.PcbDoc
 Date     : 2021-08-18
-Time     : 15:59:15
+Time     : 16:26:32
 
 Processing Rule : Clearance Constraint (Gap=0.16mm) (All),(All)
 Rule Violations :0
@@ -84,4 +84,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03
