@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\HRR\HRR-Hardware\PCB.PcbDoc
 Date     : 2021-08-18
-Time     : 11:26:06
+Time     : 15:59:15
 
 Processing Rule : Clearance Constraint (Gap=0.16mm) (All),(All)
 Rule Violations :0
@@ -51,7 +51,7 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room U_5v2 (Bounding Region = (119.273mm, 142.273mm, 152.273mm, 165.273mm) (InComponentClass('U_5v2'))
+Processing Rule : Room U_5v2 (Bounding Region = (119.273mm, 142.273mm, 152.773mm, 165.273mm) (InComponentClass('U_5v2'))
 Rule Violations :0
 
 Processing Rule : Room 9GOUT4 (Bounding Region = (125.273mm, 95.273mm, 129.273mm, 104.273mm) (InComponentClass('9GOUT4'))
