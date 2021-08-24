@@ -1,12 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\HRR\HRR-Hardware\PCB.PcbDoc
-Date     : 2021-08-22
-Time     : 18:42:02
-
-Processing Rule : Clearance Constraint (Gap=0.16mm) (IsPad),(IsVia)
-Rule Violations :0
+Date     : 2021-08-23
+Time     : 13:35:04
 
 Processing Rule : Clearance Constraint (Gap=0.16mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.16mm) (IsPad),(IsVia)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -54,10 +54,10 @@ Rule Violations :0
 Processing Rule : Room U_5v2 (Bounding Region = (119.273mm, 142.273mm, 152.773mm, 165.273mm) (InComponentClass('U_5v2'))
 Rule Violations :0
 
-Processing Rule : Room U_Reg3v3 (Bounding Region = (119.273mm, 127.273mm, 144.273mm, 142.273mm) (InComponentClass('U_Reg3v3'))
+Processing Rule : Room 9GOUT4 (Bounding Region = (125.273mm, 95.273mm, 129.273mm, 104.273mm) (InComponentClass('9GOUT4'))
 Rule Violations :0
 
-Processing Rule : Room 9GOUT4 (Bounding Region = (125.273mm, 95.273mm, 129.273mm, 104.273mm) (InComponentClass('9GOUT4'))
+Processing Rule : Room U_Reg3v3 (Bounding Region = (119.273mm, 127.273mm, 144.273mm, 142.273mm) (InComponentClass('U_Reg3v3'))
 Rule Violations :0
 
 Processing Rule : Room 9GOUT3 (Bounding Region = (131.273mm, 95.273mm, 135.273mm, 104.273mm) (InComponentClass('9GOUT3'))
